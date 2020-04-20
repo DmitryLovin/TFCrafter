@@ -1,0 +1,7 @@
+name: TropicalFishCrafter
+main: my.dmitrylovin.plugin.tfc.TFCrafter
+version: 1.0
+api-version: 1.15
+author: DmitryLovin
+description: >
+             Craft your own tropical fish!
